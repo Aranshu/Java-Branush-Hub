@@ -10,15 +10,15 @@ Branush Hub is a web application developed using servlets and jsp along with the
 
 - Home page
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/home_page.jpg)
+![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/home_page.jpg?raw=true)
 
 - Login page
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/login.jpg)
+![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/login.jpg?raw=true)
 
 - Registration page
 
-![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/Register.jpg)
+![App Screenshot](https://github.com/Aranshu/Java-Branush-Hub/blob/master/media/Register.jpg?raw=true)
 
 ## Installation
 
